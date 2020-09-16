@@ -17,7 +17,7 @@
 Aplicação REST API Lavavel com autenticação JWT (JSON Web Token), desenvolvida para gerenciamento de faturas, contemplando entidades USER e INVOICE. 
 
 ---
-###  :Pré-requisitos
+### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 - [x] [Git](https://git-scm.com/)
@@ -26,7 +26,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 - [x] Editor de código como [VSCode](https://code.visualstudio.com/)
 ---
 
-###  :Executar
+### Executar
 ```bash
 # Clone este repositório
 $ git clone <https://github.com/lfboaventura/Rest-Api-Laravel-JWT.git>
@@ -100,6 +100,8 @@ $ php artisan serve
 # post: Atualiza invoice por id.
 /api/auth/invoice/{id}
 
+```
+
 ---
 
 ### :hammer: **Tecnologias**
@@ -112,6 +114,7 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 - [Postman](https://www.postman.com/)
 
 ---
+
 ### : **Autor**
 
 <a href="https://github.com/lfboaventura">
@@ -125,4 +128,3 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 
 - [Linkidin](https://www.linkedin.com/in/lucio-flavio-boaventura-8b429921/)
 - [Resume](https://github.com/lfboaventura/resume)
-
