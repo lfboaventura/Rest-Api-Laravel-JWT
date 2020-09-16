@@ -22,7 +22,7 @@ Aplicação REST API Lavavel com autenticação JWT (JSON Web Token), desenvolvi
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 - [x] [Git](https://git-scm.com/)
 - [x] [Composer](https://getcomposer.org/)
-- [x] PHP 7.2.5 ou superior [PHP](https://www.w3schools.com/php/php_install.asp)
+- [x] [PHP](https://www.w3schools.com/php/php_install.asp) 7.2.5 ou superior
 - [x] Editor de código como [VSCode](https://code.visualstudio.com/)
 ---
 
