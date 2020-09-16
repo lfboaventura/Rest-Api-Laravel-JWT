@@ -69,6 +69,6 @@ Route::group([
     Route::get('invoices',              'InvoiceController@invoices');
     Route::get('invoice/byUrl/{url}',   'InvoiceController@getByUrl');
     Route::get('invoice/{id}',          'InvoiceController@getById');
-    Route::get('invoice/delete/{id}',   'InvoiceController@destroy');
+    Route::get('invoice/delete/{id}',   'InvoiceController@destroyById');
     Route::post('invoice/{id}',         'InvoiceController@update');
 });

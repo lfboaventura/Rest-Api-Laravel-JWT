@@ -92,10 +92,10 @@ $ php artisan serve
 /api/auth/invoice/byUrl/{url}
 
 # get: Consulta invoice por id.
-/api/auth/invoice/byUrl/{idl}
+/api/auth/invoice/{id}
 
 # get: Deleta invoice por id.
-/api/auth/invoice/delete/{idl}
+/api/auth/invoice/delete/{id}
 
 # post: Atualiza invoice por id.
 /api/auth/invoice/{id}

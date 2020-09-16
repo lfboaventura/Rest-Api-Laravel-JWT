@@ -66,6 +66,8 @@ class InvoiceController extends Controller
     public function getByUrl($url)
     {
         return $this->edit($this->invoice->with('user')->where('user_id', $this->user->id)->where('url', ( $this->url ) )->first());
+        return response()->json($this->invoice->all());
+        dd($this->url, response()->json($this->invoice->all()));
     }
     
     public function getById($id)
@@ -170,7 +172,7 @@ class InvoiceController extends Controller
     public function generateUrlInvoice()
     {
         while ( true ) {
-            $url = $this->url . '/' . $this->generateRandomString();
+            $url = $this->url . '/byUrl/' . $this->generateRandomString();
             if ( empty($this->invoice->where('url',$url)->first()) ){
                 break;
             }
