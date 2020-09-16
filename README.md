@@ -115,16 +115,16 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 
 ---
 
-### : **Autor**
+### **Autor**
 
 <a href="https://github.com/lfboaventura">
- <img style="border-radius: 50%;" src="https://github.com/account" width="100px;" alt="Perfil Lúcio Flávio Boaventura"/>
+ <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/64990956?s=460&u=51e4d8022ccf5165d050d44306c132d65293a196&v=4" width="100px;" alt="Perfil Lúcio Flávio Boaventura"/>
  <br />
- <sub><b>Lúcio Flávio Boaventura</b></sub></a> <a href="https://github.com/rafaelfachinelli" title="Lúcio Flávio Boaventura"></a>
+ <sub><b>Lúcio Flávio Boaventura</b></sub></a> <a href="https://github.com/lfboaventura" title="Lúcio Flávio Boaventura"></a>
 
 ---
 
-### : **Entre em Contato**
+### **Entre em Contato**
 
 - [Linkidin](https://www.linkedin.com/in/lucio-flavio-boaventura-8b429921/)
 - [Resume](https://github.com/lfboaventura/resume)
